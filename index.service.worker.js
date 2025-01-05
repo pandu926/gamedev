@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1736067419|199328422';
+const CACHE_VERSION = '1736067774|553846154';
 /** @type {string} */
 const CACHE_PREFIX = 'Kadita Queen Of -sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
